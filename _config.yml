@@ -1,15 +1,15 @@
-typography_spectrum: 0.6928267902694643
+typography_spectrum: 0.7323239368852228
 color:
-  brandStrength: 0.7939723450690508
-  lightness: 0.29970662109553814
-  saturation: 0.7711351450998336
-  rhythmicContrast: 0.6180723125580698
+  brandStrength: 0.7426529573276639
+  lightness: 0.09557373402640224
+  saturation: 0.2556271958164871
+  rhythmicContrast: 0.7689739759080112
   brandColors:
-    - '#6C6E58'
-    - '#3E423A'
-    - '#417378'
-    - '#A4CFBE'
-    - '#F4F7D9'
+    - '#B8ECD7'
+    - '#083643'
+    - '#B1E001'
+    - '#CEF09D'
+    - '#476C5E'
 layout_spectrum: 0.3709718503523618
 author:
   name: Ginger Buchanan
