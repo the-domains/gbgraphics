@@ -1,20 +1,32 @@
-typography_spectrum: 0.7323239368852228
+layout_spectrum: 1
+logo: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/d09b9f56-57a7-4ed1-870c-09a9a01a2137.ai
+author:
+  name: Ginger Buchanan
+  email: gingerb421@gmail.com
+name: GBGRAPHICS
+title: For Art of All Kinds
+collections:
+  - index:
+      navigable: true
+      path: /
+      number: 15
+      paginate: true
+    feed:
+      format: rss
+      path: /rss.xml
+      number: 10
+    permalink:
+      path: '/:title/'
+typography_spectrum: 0.6446809
 color:
   brandStrength: 0.7426529573276639
-  lightness: 0.09557373402640224
   saturation: 0.2556271958164871
-  rhythmicContrast: 0.7689739759080112
   brandColors:
     - '#B8ECD7'
     - '#083643'
     - '#B1E001'
     - '#CEF09D'
     - '#476C5E'
-layout_spectrum: 0.3709718503523618
-author:
-  name: Ginger Buchanan
-  email: gingerb421@gmail.com
-logo: >-
-  https://the-grid-user-content.s3-us-west-2.amazonaws.com/d09b9f56-57a7-4ed1-870c-09a9a01a2137.ai
-name: GBGRAPHICS
-title: For Art of All Kinds
+  lightness: 0.09557373402640224
+  rhythmicContrast: 0.7689739759080112
