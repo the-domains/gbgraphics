@@ -4,7 +4,7 @@
         <description><![CDATA[For Art of All Kinds]]></description>
         <link>https://thegrid.ai/gbgraphics/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 29 Jun 2016 14:39:50 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 09 Aug 2016 03:49:35 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/gbgraphics/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[It’s a Beautiful World!]]></title>
@@ -12,6 +12,13 @@
             <link>https://thegrid.ai/gbgraphics/39d92623-d14c-4e01-b93c-b3ca1c59359c/index.html</link>
             <guid isPermaLink="false">39d92623-d14c-4e01-b93c-b3ca1c59359c</guid>
             <pubDate>Wed, 29 Jun 2016 13:48:35 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/4f06c7b4-c1f2-493f-b3da-ddc010cc3930.jpg">]]></description>
+            <link>https://the-grid-user-content.s3-us-west-2.amazonaws.com/4f06c7b4-c1f2-493f-b3da-ddc010cc3930.jpg</link>
+            <guid isPermaLink="false">95536f76-f49e-420a-ba88-54c3bb42b1d8</guid>
+            <pubDate>Tue, 09 Aug 2016 03:49:29 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[No title]]></title>
@@ -68,13 +75,6 @@
             <link>https://thegrid.ai/gbgraphics/175bc518-111d-4f99-b1f7-2ee8e1c738b3/index.html</link>
             <guid isPermaLink="false">175bc518-111d-4f99-b1f7-2ee8e1c738b3</guid>
             <pubDate>Wed, 29 Jun 2016 12:39:23 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Using up the last of the watercolor with the kids.]]></title>
-            <description><![CDATA[<article><h1>Using up the last of the watercolor with the kids.</h1><p>©2014 Ginger Buchanan</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/fc5b1e0c-8cf9-4adb-8d17-ca77d159adc4.gif"></article>]]></description>
-            <link>https://thegrid.ai/gbgraphics/using-up-the-last-of-the-watercolor-with-the-kids/index.html</link>
-            <guid isPermaLink="false">f3a7f815-1a91-46fb-929d-f1abf0cca291</guid>
-            <pubDate>Wed, 29 Jun 2016 12:39:09 GMT</pubDate>
         </item>
     </channel>
 </rss>
